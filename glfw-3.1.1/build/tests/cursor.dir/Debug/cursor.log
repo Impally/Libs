@@ -1,0 +1,4 @@
+﻿  Building Custom Rule E:/VSProjects/Project1/Project1/glfw-3.1.1/tests/CMakeLists.txt
+  CMake does not need to re-run because E:\VSProjects\Project1\Project1\glfw-3.1.1\build\tests\CMakeFiles\generate.stamp is up-to-date.
+  cursor.c
+  cursor.vcxproj -> E:\VSProjects\Project1\Project1\glfw-3.1.1\build\tests\Debug\cursor.exe

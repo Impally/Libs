@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\VSProjects\Project1\Project1\glfw-3.1.1\tests\reopen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\VSProjects\Project1\Project1\glfw-3.1.1\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3D1FE91F-2FB1-4702-9AB0-BCBDFF09EC0E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
